@@ -9,7 +9,6 @@ import EmailOutlinedIcon from "@mui/icons-material/EmailOutlined";
 import PersonOutlinedIcon from "@mui/icons-material/PersonOutlined";
 import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
 import { Link } from "react-router-dom";
-import EmailOutlined from '@mui/icons-material/EmailOutlined';
 import { useContext } from 'react';
 import { DarkModeContext } from '../../context/darkModeContext';
 import { AuthContext } from "../../context/authContext";
