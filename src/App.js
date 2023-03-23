@@ -13,7 +13,6 @@ import { AuthContext } from "./context/authContext";
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
   Outlet,
   Navigate,
 } from "react-router-dom";
