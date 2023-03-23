@@ -1,6 +1,6 @@
-import Login from "./pages/login/Login";
+// import Login from "./pages/login/Login";
 // import './App.css';
-import Register from "./pages/register/Register";
+// import Register from "./pages/register/Register";
 import Navbar from "./components/navbar/Navbar";
 import LeftBar from "./components/leftBar/LeftBar";
 import RightBar from "./components/rightBar/RightBar";
@@ -66,14 +66,14 @@ function App() {
         }
       ]
     },
-    {
-      path: "/login",
-      element: <Login />,
-    },
-    {
-      path: "/register",
-      element: <Register />,
-    },
+//     {
+//       path: "/login",
+//       element: <Login />,
+//     },
+//     {
+//       path: "/register",
+//       element: <Register />,
+//     },
   ]);
 
   return (
